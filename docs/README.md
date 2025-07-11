@@ -1,6 +1,6 @@
 # 📘 Documentação do Projeto - Desenvolvimento Web
 
-![Canvas do Projeto](docs/ModelCanvas.jpg)
+![Canvas do Projeto](ModelCanvas.jpg)
 
 
 
@@ -125,12 +125,12 @@ O projeto  do sistema
 
 ### Modelo 
 
-![alt text](docs/ModelDados.jpeg)
+![alt text](ModelDados.jpeg)
 
 ### Esboço da arquitetura geral (cliente-servidor)
 
 
-![alt text](image.png)
+![alt text](ModelArquitetura.jpeg)
 
 
 ### Autorização  e Autenticação 
@@ -155,16 +155,22 @@ Gerenciados separadamente e com permissões diferentes.
 
 
 ### Tecnologias a serem utilizadas 
-Strapi, HTML, CSS, SQLITE....
+As tecnologias e ferramentas a serem utilizadas foram escolhidas com foco no conhecimento prévio da equipe:
 
----
+- **Strapi** – Utilizado como CMS e backend headless, facilitando a criação e consumo de APIs RESTful de forma rápida e estruturada.
+- **HTML5 e CSS3** – Base da estrutura e estilização das páginas, proporcionando uma experiência sólida e acessível ao usuário.
+- **JavaScript** – Responsável pela dinamização das interações e pela comunicação com o backend.
+- **SQLite** – Banco de dados relacional leve, ideal para projetos acadêmicos e ambientes locais, facilitando testes e organização dos dados.
+- **Bootstrap** – Framework CSS adotado para acelerar o desenvolvimento visual com componentes prontos e responsividade automática.  
+  A escolha do Bootstrap foi motivada pela sua curva de aprendizado acessível, ampla documentação e compatibilidade com HTML/CSS puros, tornando-o ideal para o escopo do nosso projeto mais básico
+
 
 ### Telas do sistema
 
-![alt text](docs/telas 01 02.png)
+![alt text](tela1.png)
 **Figura 1**: Tela de autenticação do usuario / e painel de gestão para adm
 
-![alt text](docs/telas 03 04.png)
+![alt text](tela2.png)
 **Figura 2**: Tela principal com menu visual ao usuario / modelo de pedido 
 
 
